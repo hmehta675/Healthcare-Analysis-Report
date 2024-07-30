@@ -1,4 +1,4 @@
-#Sales Analysis 
+## Sales Analysis 
 Create a comprehensive sales analysis dashboard in Power BI that provides insights into key sales metrics and trends for a given period.
 Key Metrics to Include:
 Total Sales: Visualize total sales amount over time, segmented by different dimensions (e.g., region, product category).
@@ -8,7 +8,7 @@ Sales by Customer Segment: Analyze sales performance across different customer s
 Profitability Analysis: Include metrics such as gross profit margin, net profit margin, and visualize trends over time.
 Sales Forecasting: Use historical data to forecast future sales trends and visualize the forecasted sales.
 
-Dashboard Components:
+## Dashboard Components:
 
 Overview: A summary of total sales, sales growth, and key performance indicators (KPIs).
 Trend Analysis: Line charts showing sales trends over time, with filters for different time periods (e.g., month, quarter, year).
@@ -20,11 +20,11 @@ Filters and Interactivity:
 Allow users to filter data by date range, region, product category, and customer segment.
 Enable drill-down capabilities for a more detailed analysis (e.g., from yearly to quarterly or monthly data).
 
-Visual Design:
+## Visual Design:
 Use a consistent color scheme and layout for clarity and ease of understanding.
 Ensure that each visual component contributes to the overall story of sales performance and trends.
 
-Implementation Steps:
+## Implementation Steps:
 
 Data Preparation: Connect Power BI to your sales data source and prepare the dataset, ensuring it includes all necessary dimensions and measures.
 Dashboard Layout: Design the layout of the dashboard with a focus on usability and intuitive navigation.
